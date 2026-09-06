@@ -85,14 +85,6 @@ Project/
 
 The project was tested with different inputs and scenarios to verify that the implemented functionality works correctly.
 
-
-
-Example:
-
-```text
-
-```
-
 ## 🔮 Future Improvements
 
 * Add more advanced features
@@ -108,10 +100,6 @@ Example:
 
 BCA Student
 Galgotias University
-
-## 📄 License
-
-This project is created for educational and internship purposes.
 
 ```
 
