@@ -94,12 +94,6 @@ The project was tested with different inputs and scenarios to verify that the im
 * Implement additional testing
 * Improve security and scalability
 
-## 👨‍💻 Author
-
-**Aryan Yadav**
-BCA Student
-Galgotias University
-
 ```
 
 ```
