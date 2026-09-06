@@ -97,7 +97,6 @@ The project was tested with different inputs and scenarios to verify that the im
 ## 👨‍💻 Author
 
 **Aryan Yadav**
-
 BCA Student
 Galgotias University
 
